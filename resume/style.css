@@ -1,0 +1,96 @@
+body{
+    font-family: Segoe UI,Yu Gothic UI,sans-serif;
+    margin: auto;
+    display: block;
+    margin-bottom: 50px;
+    
+}
+
+.top{
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.top img{
+    width: 166px;
+    
+    margin: auto;
+    display: block;
+}
+
+.description-middle{
+    font-size: 24px;
+    font-weight: 400;
+    width: 640px;
+    margin: auto;
+    display: block;
+
+}
+.middle{
+    width: 640px;
+    margin: auto;
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bottom{
+    background-color:rgb(28, 78, 160);
+    color: rgb(255, 255, 255);
+    display: block;
+    font-size: 16px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+.container{
+    width: 640px;
+    margin: auto;
+    display: block;
+}
+
+.text-secondary{
+    color:rgb(28, 78, 160);
+    margin-bottom: 30px;
+    
+}
+
+.bottom2{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.create{
+    color: #ffffff;
+    background-color: #FF9B14;
+    margin: 30px;
+    padding: 13px 16px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+.create:hover{
+    color: black;
+
+}
+
+.mypage{
+    color: #ffffff;
+    margin: 4px;
+    padding: 13px 16px;
+    background-color: rgb(28, 78, 160);
+    border-radius: 8px;
+    text-decoration: none;
+    
+}
+.mypage:hover{
+    background-color: #192f60;
+}
+
+.btn{
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
